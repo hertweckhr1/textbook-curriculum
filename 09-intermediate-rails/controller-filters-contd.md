@@ -2,7 +2,7 @@
 
 ## Learning Goals
 - Use controller filters to require user login
-- Practice using memoization
+- Practice using memorization
 
 ## Getting Started
 
